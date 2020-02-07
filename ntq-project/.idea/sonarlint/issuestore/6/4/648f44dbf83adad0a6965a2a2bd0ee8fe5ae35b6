@@ -1,0 +1,10 @@
+
+K	php:S1066"/Merge this if statement with the enclosing one.(ï¤Ñ¿8üÜãÿö-
+·	php:S2681g"•This statement will not be executed conditionally; only the first statement of this 2-statement block will be. The rest will execute unconditionally.(—°Ù«şÿÿÿÿ8üÜãÿö-
+Kphp:S121d"0Add curly braces around the nested statement(s).(“°ƒ8üÜãÿö-
+h	php:S1192$"GDefine a constant instead of duplicating this literal "salary" 4 times.(¹û¿ûüÿÿÿÿ8üÜãÿö-
+Kphp:S121f"0Add curly braces around the nested statement(s).(ôé†8üÜãÿö-
+Pphp:S121g"0Add curly braces around the nested statement(s).(—°Ù«şÿÿÿÿ8üÜãÿö-
+TWeb:TableWithoutCaptionCheckA" Add a description to this table.(¿‰˜ÿÿÿÿÿ8üÜãÿö-
+d	php:S1192"HDefine a constant instead of duplicating this literal "address" 4 times.(Å—íÛ8üÜãÿö-
+²	php:S2681f"•This statement will not be executed conditionally; only the first statement of this 3-statement block will be. The rest will execute unconditionally.(ôé†8üÜãÿö-

@@ -1,0 +1,12 @@
+
+U	php:S3801"4Refactor this function to use "return" consistently.(¡Ã§áøÿÿÿÿ8ëğÆ­ø-
+Kphp:S1216"0Add curly braces around the nested statement(s).(óÆ€8Ü”²®ø-
+O	php:S1481".Remove this unused "$pattenrn" local variable.(ºÈ˜ıûÿÿÿÿ8×Ü­ø-
+|	php:S1488."`Immediately return this expression instead of assigning it to the temporary variable "$matches".(ÕØ±Ü8ÅÔÉ®ø-
+k	php:S1117-"JRename "$pattern" which has the same name as the field declared at line 6.(‘İÿ†ıÿÿÿÿ8ÅÔÉ®ø-
+7	php:S3626"Remove this redundant jump.(ûÁİ…8ëğÆ­ø-
+p	php:S11423"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¿˜ä‚úÿÿÿÿ8Ü”²®ø-
+Kphp:S1217"0Add curly braces around the nested statement(s).(×¯å8Ü”²®ø-
+Kphp:S1215"0Add curly braces around the nested statement(s).(ëÓÄ8Ü”²®ø-
+k	php:S1117 "JRename "$pattern" which has the same name as the field declared at line 6.(¦©æ“øÿÿÿÿ8ëó“®ø-
+a	php:S1126"EReplace this "if-then-else" statement by a single "return" statement.(’ç‘ô8¤—‚®ø-

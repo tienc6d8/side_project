@@ -1,0 +1,13 @@
+
+aphp:S1127"FDefine and throw a dedicated exception instead of using a generic one.(¥ªâÅ8íÄÌø-
+7	php:S3626*"Remove this redundant jump.(ûÁİ…8Çô±Ìø-
+`php:S1124"FDefine and throw a dedicated exception instead of using a generic one.(àüò.8íÄÌø-
+f	php:S1117#"JRename "$pattern" which has the same name as the field declared at line 7.(¢òùä8³É¸Ëø-
+U	php:S3801	"4Refactor this function to use "return" consistently.(¡Ã§áøÿÿÿÿ8ÎŞ§Ëø-
+P	php:S3801!"4Refactor this function to use "return" consistently.(¸¾Ò8Çô±Ìø-
+Kphp:S121;"0Add curly braces around the nested statement(s).(óÆ€8¦­×Ìø-
+Kphp:S121:"0Add curly braces around the nested statement(s).(ëÓÄ8¦­×Ìø-
+7	php:S3626"Remove this redundant jump.(ûÁİ…8ÎŞ§Ëø-
+Kphp:S121<"0Add curly braces around the nested statement(s).(×¯å8¦­×Ìø-
+p	php:S1142."OReduce the number of returns of this function 4, down to the maximum allowed 3.(‹ûÌ˜ùÿÿÿÿ8¦­×Ìø-
+?php:S125$"Remove this commented out code.(—´Ûıÿÿÿÿ8àÃ¿ìø-

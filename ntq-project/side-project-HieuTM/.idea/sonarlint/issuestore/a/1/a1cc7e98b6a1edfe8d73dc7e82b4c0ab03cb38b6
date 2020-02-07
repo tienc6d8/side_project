@@ -1,0 +1,8 @@
+
+p	php:S4144,"VUpdate this method so that its implementation is not identical to "insert" on line 23.(××Œşÿÿÿÿ
+K	php:S1751"1Refactor this loop to do more than one iteration.(´ÏÖÜüÿÿÿÿ
+K	php:S1185"6Remove this method "__construct" to simply inherit it.(ƒöÙƒ
+_	php:S1126."EReplace this "if-then-else" statement by a single "return" statement.(–ÆĞ¿ùÿÿÿÿ
+_	php:S1126$"EReplace this "if-then-else" statement by a single "return" statement.(–ÆĞ¿ùÿÿÿÿ
+_	php:S1126"EReplace this "if-then-else" statement by a single "return" statement.(–ÆĞ¿ùÿÿÿÿ
+k	php:S4144""VUpdate this method so that its implementation is not identical to "insert" on line 23.(ÿÆ¾ş

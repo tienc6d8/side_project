@@ -1,0 +1,4 @@
+[07-Jan-2020 08:03:11 Europe/Berlin] PHP Notice:  Undefined variable: array in D:\ntq-project\Exception\Exception.php on line 6
+[07-Jan-2020 08:03:11 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\ntq-project\Exception\Exception.php on line 6
+[07-Jan-2020 08:03:12 Europe/Berlin] PHP Notice:  Undefined variable: array in D:\ntq-project\Exception\Exception.php on line 6
+[07-Jan-2020 08:03:12 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\ntq-project\Exception\Exception.php on line 6

@@ -1,0 +1,46 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: #E8E8E8;
+}
+#left-status{
+    border-right:2px solid #CCCCCC;
+    border-bottom:2px solid #CCCCCC;
+}
+#left-bar{
+    border-right:2px solid #CCCCCC;
+    border-bottom:2px solid #CCCCCC;
+    height: 300px;
+}
+#right-status{
+    border-bottom:2px solid #CCCCCC;
+}
+#img{
+    width: 100px;
+    height: 100px;
+}
+.datetime{
+    margin:0px;
+}
+#table{
+    margin-top: 15px;
+    border: 2px solid  #CCCCCC;
+}
+#header-table{
+    margin: 15px 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+#add-category{
+    border-left: 2px solid #CCCCCC;
+}
+.list-group{
+    margin-top:15px;
+}
+.list-group-item{
+    color: white;
+    background-color: #507298;
+}
+.fa-sort{
+    float: right;
+}

@@ -1,0 +1,10 @@
+
+e	php:S1192#"IDefine a constant instead of duplicating this literal "price_sp" 5 times.(éÑª8ë½¨Í.
+d	php:S1192"HDefine a constant instead of duplicating this literal "name_sp" 4 times.(Ùü£¨8ÊÉ Í.
+d	php:S1192C"HDefine a constant instead of duplicating this literal "address" 5 times.(’İ·Ô8Ï–´Í.
+b	php:S1192A"FDefine a constant instead of duplicating this literal "email" 5 times.(ãŸåæ8Ï–´Í.
+h	php:S1192%"LDefine a constant instead of duplicating this literal "product_id" 10 times.(©ºË¤8ë½¨Í.
+b	php:S1192$"GDefine a constant instead of duplicating this literal "nha_sx" 5 times.(Ô“z8ë½¨Í.
+m	php:S1192"LDefine a constant instead of duplicating this literal "created_at" 14 times.(»ÃÔÇûÿÿÿÿ8ŸœÍ.
+i	php:S1192B"MDefine a constant instead of duplicating this literal "phone_number" 5 times.(–©Ğ¢8Ï–´Í.
+p	php:S1192@"ODefine a constant instead of duplicating this literal "name_nguoidung" 5 times.(®ŞÒ·şÿÿÿÿ8Ï–´Í.

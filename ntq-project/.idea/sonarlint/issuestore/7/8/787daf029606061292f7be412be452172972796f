@@ -1,0 +1,7 @@
+
+N	php:S3801"4Refactor this function to use "return" consistently.(ÙµÒ§ıÿÿÿÿ
+fphp:S112"FDefine and throw a dedicated exception instead of using a generic one.(åªÑšùÿÿÿÿ8ÓÀö•ø-
+fphp:S112"FDefine and throw a dedicated exception instead of using a generic one.(âÜ·üÿÿÿÿ8ÓÀö•ø-
+Dphp:S121"0Add curly braces around the nested statement(s).(ô¦
+aphp:S112I"FDefine and throw a dedicated exception instead of using a generic one.(·šÃ8ÓÀö•ø-
+0	php:S3626"Remove this redundant jump.(ûÁİ…

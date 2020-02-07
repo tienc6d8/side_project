@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72c73dee-c067-4f90-9749-f545a38bcbc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test-week-2/ThucHanh/Nhanvien.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-week-2/ThucHanh/tien.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-week-2/ThucHanh/NguyenVanTien.php" beforeDir="false" afterPath="$PROJECT_DIR$/test-week-2/ThucHanh/NguyenVanTien.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiennv/BT_Day12/DateTime.php" beforeDir="false" afterPath="$PROJECT_DIR$/tiennv/BT_Day12/DateTime.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiennv/BT_Day12/DateTime/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/tiennv/BT_Day12/DateTime/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiennv/BT_Day12/String.php" beforeDir="false" afterPath="$PROJECT_DIR$/tiennv/BT_Day12/String.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiennv/BT_Day13/FileEndOperatingSystem.php" beforeDir="false" afterPath="$PROJECT_DIR$/tiennv/BT_Day13/FileEndOperatingSystem.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiennv/BT_Day7/bai3/Book.php" beforeDir="false" afterPath="$PROJECT_DIR$/tiennv/BT_Day7/bai3/Book.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiennv/BT_Day7/bai3/Story.php" beforeDir="false" afterPath="$PROJECT_DIR$/tiennv/BT_Day7/bai3/Story.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test-week-2" />
+  </component>
+  <component name="ProjectId" id="1VTDs0oO0ZckYECGiIt4tiUDKCE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/banhang" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ntq-project\tiennv\BT_Day15\ FileUploads" />
+      <recent name="D:\ntq-project\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ntq-project\khoapham" />
+      <recent name="D:\ntq-project\project" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DateTime" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/tiennv/BT_Day12/DateTime" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.DateTime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72c73dee-c067-4f90-9749-f545a38bcbc9" name="Default Changelist" comment="" />
+      <created>1577268393686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577268393686</updated>
+      <workItem from="1577268395020" duration="462000" />
+      <workItem from="1577428306254" duration="26000" />
+      <workItem from="1577755550456" duration="8868000" />
+      <workItem from="1577786744872" duration="45000" />
+      <workItem from="1577786836345" duration="2057000" />
+      <workItem from="1577877737241" duration="64000" />
+      <workItem from="1577877896883" duration="18977000" />
+      <workItem from="1577926809102" duration="12128000" />
+      <workItem from="1577957831631" duration="3990000" />
+      <workItem from="1578014502103" duration="1155000" />
+      <workItem from="1578019121618" duration="11001000" />
+      <workItem from="1578109996016" duration="7983000" />
+      <workItem from="1578121784346" duration="9196000" />
+      <workItem from="1578131539794" duration="232000" />
+      <workItem from="1578278699166" duration="5759000" />
+      <workItem from="1578322600562" duration="9053000" />
+      <workItem from="1578359273871" duration="16419000" />
+      <workItem from="1578408585144" duration="179000" />
+      <workItem from="1578414829159" duration="4379000" />
+      <workItem from="1578445612009" duration="28053000" />
+      <workItem from="1578495616304" duration="15998000" />
+      <workItem from="1578531979413" duration="20533000" />
+      <workItem from="1578591337036" duration="4955000" />
+      <workItem from="1578618427410" duration="15583000" />
+      <workItem from="1578841791925" duration="9095000" />
+      <workItem from="1578884700250" duration="577000" />
+      <workItem from="1578963976845" duration="8883000" />
+      <workItem from="1579015514460" duration="6220000" />
+      <workItem from="1579051246073" duration="4532000" />
+      <workItem from="1579141239223" duration="8358000" />
+      <workItem from="1579190733253" duration="4031000" />
+      <workItem from="1579223969434" duration="375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="2" width="646" height="723" key="#DateTime" timestamp="1578533423679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="367" y="2" width="646" height="723" key="#DateTime/0.0.1366.728@0.0.1366.728" timestamp="1578533423679" />
+    <state x="448" y="175" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579195827327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="448" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1579195827327" />
+    <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1578324350954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578324350954" />
+    <state x="238" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578324152839">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="238" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1578324152839" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577878034669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577878034669" />
+    <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1578279384107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1578279384107" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1579224374518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579224374518" />
+    <state x="496" y="199" key="NewPhpClassDialog" timestamp="1578507567406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="496" y="199" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1578507567406" />
+    <state x="518" y="296" key="NewPhpFileDialog" timestamp="1579149057099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="296" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1579149057099" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1578380494641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578380494641" />
+    <state x="494" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578044581052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1578044581052" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1578115823531">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1578115823531" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1579196504549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579196504549" />
+  </component>
+</project>
